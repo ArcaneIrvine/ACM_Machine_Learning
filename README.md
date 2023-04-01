@@ -44,3 +44,6 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Sample the data using stratified sampling<br>  
   - Split the data into a 80% training, 10% validation and 10% testing sets format<br>
 </details>
+<details>
+  <summary>🤖 Lesson 3: Supervised/Unsupervised Learning (TBA)</summary>
+</details>
