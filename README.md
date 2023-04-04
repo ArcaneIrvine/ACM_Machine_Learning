@@ -45,5 +45,25 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Split the data into a 80% training, 10% validation and 10% testing sets format<br>
 </details>
 <details>
-  <summary>🤖 Lesson 3: Supervised/Unsupervised Learning (TBA)</summary>
+  <summary>🤖 Lesson 3: Supervised/Unsupervised Learning 06/04/2023</summary>
+  <b>Chapter 1: Introduction to Supervised Learning - Regression and Classification</b><br>
+  - Define supervised learning<br>
+  - Define regression and its applications<br>
+  - Define classification and its applications<br>
+  - Discuss common evaluation metrics used for supervised learning<br><br>
+  <b>Chapter 2: Introduction to Unsupervised Learning - Clustering</b><br>
+  - Define unsupervised learning<br>
+  - Define clustering and its applications<br>
+  - Discuss common techniques used for clustering, such as k-means, hierarchical clustering, and DBSCAN<br>
+  - Discuss common evaluation metrics used for clustering<br><br>
+  <b>Chapter 3: Brief introduction to Deep learning and Neural Networks</b><br>
+  - Brief introduction to Deep Learning<br>
+  - Brief introduction to Neural Networks<br>
+  - What are Convolutional Neural Networks (CNNs)?<br><br>
+  <b>Project 3: Deep image classification project</b><br>
+  - Acquire a dataset of images<br>
+  - Preprocess the images by resizing them to a common size, normalizing pixel values, and splitting the data<br>
+  - Build a convolutional neural network using TensorFlow/Keras<br>
+  - Train the model using the training set, adjusting the hyperparameters<br>
+  - Evaluate the final model on the testing set to measure its accuracy and other performance metrics<br>
 </details>
