@@ -67,3 +67,6 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Train the model using the training set, adjusting the hyperparameters<br>
   - Evaluate the final model on the testing set to measure its accuracy and other performance metrics<br>
 </details>
+<details>
+  <summary>🤖 Lesson 4: Deep Learning - Neural Networks TBA</summary>
+</details>
