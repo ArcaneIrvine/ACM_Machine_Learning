@@ -69,4 +69,25 @@ ACM Machine Learning team lesson slides and projects for 2023
 </details>
 <details>
   <summary>🤖 Lesson 4: Deep Learning - Neural Networks TBA</summary>
+  <b>Chapter 1: Introduction to Deep Learning</b><br>
+  - Overview of Deep Learning<br>
+  - Deep Learning Frameworks<br>
+  - Setting up a Deep Learning Environment<br><br>
+  <b>Chapter 2: Introduction to Neural Networks</b><br>
+  - What are Neural Networks?<br>
+  - Types of Neural Networks<br>
+  - Learning in Neural Networks<br>
+  - Overfitting and Regularization<br><br>
+  <b>Chapter 3: Convolutional Neural Networks (CNNs)</b><br>
+  - Convolutional layers<br>
+  - Transfer learning<br>
+  - Applications of CNNs<br><br>
+  <b>Chapter 4: Recurrent Neural Networks (RNNs)</b><br>
+  - Recurrent layers<br>
+  - Training Recurrent Neural Networks<br>
+  - Applications of Recurrent Neural Networks<br><br>
+  <b>Chapter 5: Generative Adversarial Networks (GANs)</b><br>
+  - GAN Components<br>
+  - Common GAN Architectures<br>
+  - Applications of GANs<br>
 </details>
