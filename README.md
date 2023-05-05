@@ -68,7 +68,7 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Evaluate the final model on the testing set to measure its accuracy and other performance metrics<br>
 </details>
 <details>
-  <summary>🤖 Lesson 4: Deep Learning - Neural Networks TBA</summary>
+  <summary>🤖 Lesson 4: Deep Learning - Neural Networks 04/05/2023</summary>
   <b>Chapter 1: Introduction to Deep Learning</b><br>
   - Overview of Deep Learning<br>
   - Deep Learning Frameworks<br>
