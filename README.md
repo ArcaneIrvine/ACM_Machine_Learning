@@ -91,3 +91,6 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Common GAN Architectures<br>
   - Applications of GANs<br>
 </details>
+<details>
+  <summary>🤖 Lesson 5: Generative Adversarial Network project 10/05/2023</summary>
+</details>
