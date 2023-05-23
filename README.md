@@ -92,5 +92,11 @@ ACM Machine Learning team lesson slides and projects for 2023
   - Applications of GANs<br>
 </details>
 <details>
-  <summary>🤖 Lesson 5: Generative Adversarial Network project 10/05/2023</summary>
+  <summary>🤖 Lesson 5: Generative Adversarial Network project 10/05/2023</summary><br>
+  - Acquire the MNIST dataset from tensorflow_datasets<br>
+  - Preprocess the dataset images<br>
+  - Build the generator and discriminator networks<br>
+  - Build a custom training loop<br>
+  - Train the GAN model<br>
+  - Evaluate the final model on the testing set to measure its accuracy and other performance metrics<br>
 </details>
